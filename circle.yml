@@ -1,4 +1,4 @@
 general:
   build_dir: api
-mvn dependency:resolve
-mvn integration-test
+mvn dependency:resolve;
+mvn integration-test;
